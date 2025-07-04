@@ -1,0 +1,9 @@
+# the php mailer used 
+phpMailer/
+
+# my private configuration
+config.judith.php
+config.mailer.gaeckler.at.php
+
+#my example
+mail.txt
